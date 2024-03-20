@@ -1,0 +1,36 @@
+Web Site :
+https://chat.openai.com/share/8ac2c660-142d-480d-9f6a-77559629caa6
+https://chat.openai.com/share/b29f0a39-09fa-4af8-b146-a0c8bc325d7e
+
+
+Logo Prompt :
+Yapay zeka ve sinir ağları profil fotoğrafı
+
+
+"Özgür Slime" Hikaye :
+https://chat.openai.com/share/70f79196-b82d-4073-b513-3ee84015d111
+Resim Prompt :
+Güneş gözlüklü deri ceketli çok havalı duran pembe ve mavi slime yaratık fabrikayı patlattıktan sonra alevlerin önünden yürüyor , dijital sanat
+
+
+"İsimsiz Arayış" Hikaye :
+https://chat.openai.com/share/2fa78454-d3f8-4c52-82fd-0837f02ccac9
+Resim Prompt :
+Yıldızlara bakarak hayatının anlamını arayan düşünceli gözüken bir robot
+
+
+"Değişim" Hikaye:
+https://chat.openai.com/share/0760b68b-c28b-4e64-b18f-34bdddf76760
+Resim Prompt :
+Soğuk bir evrende spor salonunda ağırlık kaldıran ve terleyen bir kutup ayısı
+
+
+"Beklenmedik Ziyaretçi" Hikaye:
+https://chat.openai.com/share/ab532f80-bc9a-413c-9a6e-23e91f0f2f16
+Resim Prompt :
+Ormanda kamp yapan kadın gece ansızın ayı ile karşılaşır ve kamp ateşinin etrafında birbirlerine bakarlar kadın korku ve tedirginlik içerisindedir
+
+
+Kullanılan yapay zeka araçları :
+ChatGPT
+Microsoft Tasarım Aracı
