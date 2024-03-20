@@ -1,6 +1,6 @@
-"Global AI Hub - Prompt Engineering Bootcamp" Kapsamında İstenilen Proje Ödevi.
+"Global AI Hub - Prompt Engineering Bootcamp" kapsamında istenilen proje ödevi.
 
-Projede Sadece ChatGPT ve Microsoft Tasarım Aracı Kullanıldı.
+Projede sadece "ChatGPT" ve "Microsoft Tasarım Aracı" kullanıldı.
 
-Kodlarda Sadece Ufak Tefek Düzenlemeler Yapıldı.
+Kodlarda sadece ufak tefek düzenlemeler yapıldı.
 
